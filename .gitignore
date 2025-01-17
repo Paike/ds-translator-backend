@@ -1,0 +1,8 @@
+.env
+speech.mp3
+static
+.venv
+.vscode
+__pycache__
+datascientest.key
+.DS_Store
